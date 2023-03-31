@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Manga";
+  src: url('/font/mangat.ttf') format('truetype');}
+
+body {
+  font-family: "Manga";
+}
+
+.anime-font {
+  font-family: monospace;
+  font-size: larger;
+}
