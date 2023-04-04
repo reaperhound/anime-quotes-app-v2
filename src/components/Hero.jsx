@@ -44,12 +44,6 @@ const Hero = () => {
             </div>
 
             <div className="sm:ml-[900px] mb-[500px] absolute z-0">
-              <img
-                className="w-[250px] h-[250px] "
-                src="/blobanimation.svg"
-                alt=""
-                srcset=""
-              />
             </div>
           </div>
         </>
